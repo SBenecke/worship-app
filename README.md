@@ -1,3 +1,2 @@
 # worship-app
-input user
-lasdhjfuw
+This is bad
